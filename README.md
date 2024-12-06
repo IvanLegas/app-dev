@@ -1,3 +1,2 @@
 # app-dev
-
-My current favorite game to play is League of Legends: Wild Rift.
+My favorite subjects are Programming and Database.
